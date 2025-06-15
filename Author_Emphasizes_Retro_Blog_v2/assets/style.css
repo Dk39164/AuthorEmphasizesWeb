@@ -1,0 +1,41 @@
+
+body {
+    background: teal;
+    font-family: "Courier New", monospace;
+    color: black;
+    margin: 0;
+    padding: 20px;
+}
+.window {
+    background: silver;
+    border: 2px outset gray;
+    padding: 10px;
+    width: 600px;
+    margin: 0 auto;
+}
+.title-bar {
+    background: navy;
+    color: white;
+    padding: 2px 8px;
+    font-weight: bold;
+}
+.window-body {
+    background: white;
+    padding: 10px;
+    border: 2px inset gray;
+}
+.avatar {
+    width: 48px;
+    height: 48px;
+    float: left;
+    margin-right: 10px;
+}
+.post {
+    background: #eee;
+    padding: 5px;
+    margin: 5px 0;
+    border: 1px solid #ccc;
+}
+a {
+    color: blue;
+}
